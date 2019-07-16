@@ -178,9 +178,16 @@ a {
   .scheiding {
     padding-top: 5px;
   }
-  table {
+  .table-talen {
     width: 100%;
-    margin-left: 0px;
+    margin-left: 1px;
+    border-spacing: 0;
+  }
+
+  .table-skills {
+    width: 100%;
+    margin-left: 0;
+    border-spacing: 0;
   }
 
   td > .gedraaid {
