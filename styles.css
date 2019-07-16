@@ -92,36 +92,7 @@ li {
   margin-left: 20px;
 }
 
-table {
-  width: 100%;
-  margin-left: 3px;
-}
 
-td > .gedraaid {
-  width: 12px;
-}
-
-td {
-  height: 20px;
-}
-
-.firstOfList {
-  width: 125px;
-}
-
-.gedraaid {
-  transform: rotate(-90deg);
-  font-size: 15px;
-  padding: 0;
-}
-
-.fas, .far{
-  font-size: 12px;
-}
-
-td {
-  font-size: 18px;
-}
 a {
   text-decoration: none;
   color: black;
@@ -159,12 +130,13 @@ a {
     text-align: left;
     justify-content: left;
     align-content: flex-start;
-    
+    padding-left: 11px;
   }
 
   .feature-1 {
     align-content: flex-start;
-    padding-left: 20px;
+    padding-left: 32px;
+    padding-top: 20px;
     
   }
   .profiletext {
@@ -205,6 +177,36 @@ a {
   }
   .scheiding {
     padding-top: 5px;
+  }
+  table {
+    width: 100%;
+    margin-left: 0px;
+  }
+
+  td > .gedraaid {
+    width: 12px;
+  }
+
+  td {
+    height: 20px;
+  }
+
+  .firstOfList {
+    width: 125px;
+  }
+
+  .gedraaid {
+    transform: rotate(-90deg);
+    font-size: 15px;
+    padding: 0;
+  }
+
+  .fas, .far{
+    font-size: 12px;
+  }
+
+  td {
+    font-size: 18px;
   }
 }
 
@@ -294,6 +296,36 @@ a {
   .interesses {
     font-size: 25px;
   }
+  table {
+    width: 100%;
+    margin-left: 3px;
+  }
+
+  td > .gedraaid {
+    width: 12px;
+  }
+
+  td {
+    height: 20px;
+  }
+
+  .firstOfList {
+    width: 125px;
+  }
+
+  .gedraaid {
+    transform: rotate(-90deg);
+    font-size: 15px;
+    padding: 0;
+  }
+
+  .fas, .far{
+    font-size: 12px;
+  }
+
+  td {
+    font-size: 18px;
+  }
 }
 
 /* Desktop Styles */
@@ -381,6 +413,36 @@ a {
   }
   .interesses {
     font-size: 25px;
+  }
+  table {
+    width: 100%;
+    margin-left: 3px;
+  }
+
+  td > .gedraaid {
+    width: 12px;
+  }
+
+  td {
+    height: 20px;
+  }
+
+  .firstOfList {
+    width: 125px;
+  }
+
+  .gedraaid {
+    transform: rotate(-90deg);
+    font-size: 15px;
+    padding: 0;
+  }
+
+  .fas, .far{
+    font-size: 12px;
+  }
+
+  td {
+    font-size: 18px;
   }
 
   
