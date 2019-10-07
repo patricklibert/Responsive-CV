@@ -342,7 +342,7 @@ a {
     margin: 0 auto;
   }
   .feature-1 {
-    width: 35%
+    width: 30%
   }
   .feature-2 {
     width: 65%;
@@ -384,6 +384,7 @@ a {
     text-align: left;
     padding-top: 20px;
     padding-left: 10px;
+    margin-right: 25px;
   }
   .profiel {
     font-size: 25px;
