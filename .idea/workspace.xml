@@ -29,12 +29,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="328" />
-    <option name="y" value="26" />
-    <option name="width" value="1400" />
-    <option name="height" value="965" />
-  </component>
   <component name="ProjectId" id="1RrzTHi2hMyikX2TzgztwQCi1mZ" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -70,7 +64,7 @@
       <workItem from="1563278828465" duration="4443000" />
       <workItem from="1563375122779" duration="320000" />
       <workItem from="1564392247681" duration="31000" />
-      <workItem from="1570440009854" duration="1757000" />
+      <workItem from="1570440009854" duration="2362000" />
     </task>
     <servers />
   </component>
