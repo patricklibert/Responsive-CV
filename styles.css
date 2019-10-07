@@ -157,10 +157,10 @@ a {
     justify-content: space-between;
   }
   .studielinein {
-    padding-bottom: 10px;
+    padding-bottom: 25px;
   }
   .studiepadding {
-    padding-left: 25px;
+    padding-left: 35px;
   }
   .werkervaring {
     font-size: 25px;
@@ -390,7 +390,7 @@ a {
     font-size: 25px;
   }
   .scheiding {
-    padding-top: 10px;
+    padding-top: 15px;
   }
   .studies {
     font-size: 25px;
@@ -407,7 +407,7 @@ a {
   }
 
   .studielinein {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
   }
 
   .studiestext {
