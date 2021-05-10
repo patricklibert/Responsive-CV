@@ -146,7 +146,7 @@ a {
   .studies {
     font-size: 25px;
     padding-left: 20px;
-   
+    padding-top: 20px;
   }
   .studiestext {
     padding-left: 20px;
@@ -275,7 +275,7 @@ a {
   }
   .studies {
     font-size: 25px;
-    padding-top: 20px;
+   
   }
 
   .werkervaring {
